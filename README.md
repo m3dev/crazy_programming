@@ -22,8 +22,7 @@
 
 |title(link)|code|
 |---|---|
-|m3-inc-personal
-[Is Face Mark?](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/is_face_mark)|`(d >_< b) if (c:=('ω')<"hi") else (c^0^c)-~3`|
+|[Is Face Mark?](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/is_face_mark)|`(d >_< b) if (c:=('ω')<"hi") else (c^0^c)-~3`|
 |[While trick](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/while_trick)|`[1,2,3,4];while _:_,*_=_;_`|
 |[Slice list](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/slice_list)|`[x:=1,x:=-~x,-~x][:][::-1][:1]`|
 |[Slice hint](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/slice_hint)|`_:...=[];_[:]:...=f'{f"{[...][::][0]}"::^0}';_`|
