@@ -1,5 +1,7 @@
 # Crazy Programming
 
+![header](./img/header.png)
+
 ## Description
 
 実行するとソースコード自身と同じ文字列が返ってくるコード「Quine」、社内で開発された「プログラミングクイズ」を掲載しています。
