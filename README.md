@@ -41,6 +41,20 @@
 
 </details>
 
+<details>
+
+<summary>Ruby Quiz Table</summary>
+
+|title(link)|code|
+|---|---|
+|[RubyKaigi 2019 Day1-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`!????!:!?!`|
+|[RubyKaigi 2019 Day2-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`%%%%%%..%%[0].size[0]`|
+|[RubyKaigi 2019 Day2-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`puts=:puts;puts=send(puts,puts)\|\|puts(puts){puts="puts"};puts`|
+|[RubyKaigi 2019 Day2-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`%%%%%%%%?????:??`|
+|[RubyKaigi 2019 Day2-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`a=0.0/0;a==a?a:irb.quit`|
+
+</details>
+
 # We are hiring!!
 
 ギークな学びが大好きな皆さん、エムスリーで一緒に働いてみませんか？
