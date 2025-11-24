@@ -52,9 +52,15 @@
 |[RubyKaigi 2019 Day2-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`puts=:puts;puts=send(puts,puts)\|\|puts(puts){puts="puts"};puts`|
 |[RubyKaigi 2019 Day2-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`%%%%%%%%?????:??`|
 |[RubyKaigi 2019 Day2-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`a=0.0/0;a==a?a:irb.quit`|
-|[RubyWorldConference2022 1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`-a=--1.to_s`|
-|[RubyWorldConference2022 2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`[1_1, 1_2, 1_3].map{_2}\|[]`|
-|[RubyWorldConference2022 3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`_=_\|_=__=_\|_=_`|
+|[RubyWorldConference2022 day0-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`-a=--1.to_s`|
+|[RubyWorldConference2022 day0-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`[1_1, 1_2, 1_3].map{_2}\|[]`|
+|[RubyWorldConference2022 day0-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`_=_\|_=__=_\|_=_`|
+|[RubyWorldConference2022 day1-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`!??[??]`|
+|[RubyWorldConference2022 day1-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`!%.!..!`|
+|[RubyWorldConference2022 day1-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`?%%/?%/`|
+|[RubyWorldConference2022 day2-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`+-+-+-1===-+-+-+1`|
+|[RubyWorldConference2022 day2-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`().\|(0).!()`|
+|[RubyWorldConference2022 day2-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`(?a..?A).to_a[-2]`|
 
 </details>
 
