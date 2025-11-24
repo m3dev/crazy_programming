@@ -52,6 +52,7 @@
 |[Zero to one](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/zero_to_one)|`~1<<1&-~1`|
 |[Formula type](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/formula_type)|`O:1+1=2;O`|
 |[Append magic](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/append_magic)|`(x:=[[]]*3)[0].append(1);x`|
+|[MMM](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/mmm)|`*M,M=[*"123"];"M"+M`|
 
 </details>
 
