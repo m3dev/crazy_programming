@@ -46,6 +46,7 @@
 |[Equals](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/equals)|`f"{'='=}={'='=}"`|
 |[Method chaining](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/method_chaining)|`().__iter__().__class__.__name__[_:=-2]+[].__class__.__name__[_]`|
 |[GeeK split](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/geek_split)|`"g_e_e_k".split(_:="_",_:=len(_))[_].split(_:="_",_:=len(_))[_].split(_:="_")[len(_)]+"p"`|
+|[X Face](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/x_face)|`_C:3J /2=3;-~-( _C-8) *["布団"]`|
 
 </details>
 
