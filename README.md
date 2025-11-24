@@ -48,6 +48,7 @@
 |[GeeK split](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/geek_split)|`"g_e_e_k".split(_:="_",_:=len(_))[_].split(_:="_",_:=len(_))[_].split(_:="_")[len(_)]+"p"`|
 |[X Face](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/x_face)|`_C:3J /2=3;-~-( _C-8) *["布団"]`|
 |[All empty](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/all_empty)|`-~(-~(()==()))`|
+|[String of string](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/string_of_string)|`"%%%s%%%%%%%%%%%%ss"%"d"%1%"%"%()%"2"`|
 
 </details>
 
