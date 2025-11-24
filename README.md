@@ -20,6 +20,16 @@
 
 <details>
 
+<summary>JavaScript Quiz Table</summary>
+
+|title(link)|code|
+|---|---|
+|[技育プロジェクト](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/javascript/geek)|`[_='GEEK'.small()[2]]+[-~_._\|2];`|
+
+</details>
+
+<details>
+
 <summary>Python Quiz Table</summary>
 
 |title(link)|code|
