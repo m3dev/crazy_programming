@@ -17,21 +17,21 @@ rbenv local
 irb
 ```
 
-### quiz
+## quiz
 
-#### Day1 - 1
+### Day1 - 1
 
 ```ruby
 !????!:!?!
 ```
 
-#### Day2 - 1
+### Day2 - 1
 
 ```ruby
 %%%%%%..%%[0].size[0]
 ```
 
-#### Day3 - 1
+### Day3 - 1
 
 ```ruby
 puts = :puts
@@ -39,13 +39,13 @@ puts = send(puts, puts) || puts(puts) { puts = “puts” }
 puts
 ```
 
-#### Day3 - 2
+### Day3 - 2
 
 ```ruby
 %%%%%%%%?????:??
 ```
 
-#### Day3 - 3
+### Day3 - 3
 
 ```ruby
 a = 0.0/0; a == a ? a : irb.quit
