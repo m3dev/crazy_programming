@@ -26,6 +26,16 @@
 
 <details>
 
+<summary>JavaScript Quiz Table</summary>
+
+|title(link)|code|
+|---|---|
+|[技育プロジェクト](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/javascript/geek)|`[_='GEEK'.small()[2]]+[-~_._\|2];`|
+
+</details>
+
+<details>
+
 <summary>Python Quiz Table</summary>
 
 |title(link)|code|
@@ -39,6 +49,41 @@
 |[Numpy array to array](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/numpy_array_to_array)|`import numpy as np;print(np.zeros(((_:=1),_))[[(((~-_,),),)],(...)])`|
 |[Numpy sum](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/numpy_sum)|`import numpy as np;print(sum([sum:=-1],np.sum([sum],sum)))`|
 |[Sum trick](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/sum_trick)|`sum(((1,(2,(3),),(4,)),(5,),),())`|
+|[Zeros](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/zeros)||`000_0&00^00-0x0_0_00^0o0_00-~0^-0b0_0_0`|
+|[To int](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/to_int)|`int("%s_0%%s"%0x0%10)`|
+|[Equals](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/equals)|`f"{'='=}={'='=}"`|
+|[Method chaining](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/method_chaining)|`().__iter__().__class__.__name__[_:=-2]+[].__class__.__name__[_]`|
+|[GeeK split](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/geek_split)|`"g_e_e_k".split(_:="_",_:=len(_))[_].split(_:="_",_:=len(_))[_].split(_:="_")[len(_)]+"p"`|
+|[X Face](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/x_face)|`_C:3J /2=3;-~-( _C-8) *["布団"]`|
+|[All empty](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/all_empty)|`-~(-~(()==()))`|
+|[String of string](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/string_of_string)|`"%%%s%%%%%%%%%%%%ss"%"d"%1%"%"%()%"2"`|
+|[Zero to one](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/zero_to_one)|`~1<<1&-~1`|
+|[Formula type](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/formula_type)|`O:1+1=2;O`|
+|[Append magic](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/append_magic)|`(x:=[[]]*3)[0].append(1);x`|
+|[MMM](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/mmm)|`*M,M=[*"123"];"M"+M`|
+
+</details>
+
+<details>
+
+<summary>Ruby Quiz Table</summary>
+
+|title(link)|code|
+|---|---|
+|[RubyKaigi 2019 Day1-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`!????!:!?!`|
+|[RubyKaigi 2019 Day2-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`%%%%%%..%%[0].size[0]`|
+|[RubyKaigi 2019 Day2-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`puts=:puts;puts=send(puts,puts)\|\|puts(puts){puts="puts"};puts`|
+|[RubyKaigi 2019 Day2-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`%%%%%%%%?????:??`|
+|[RubyKaigi 2019 Day2-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_kaigi_2019)|`a=0.0/0;a==a?a:irb.quit`|
+|[RubyWorldConference2022 day0-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`-a=--1.to_s`|
+|[RubyWorldConference2022 day0-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`[1_1, 1_2, 1_3].map{_2}\|[]`|
+|[RubyWorldConference2022 day0-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`_=_\|_=__=_\|_=_`|
+|[RubyWorldConference2022 day1-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`!??[??]`|
+|[RubyWorldConference2022 day1-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`!%.!..!`|
+|[RubyWorldConference2022 day1-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`?%%/?%/`|
+|[RubyWorldConference2022 day2-1](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`+-+-+-1===-+-+-+1`|
+|[RubyWorldConference2022 day2-2](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`().\|(0).!()`|
+|[RubyWorldConference2022 day2-3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`(?a..?A).to_a[-2]`|
 
 </details>
 
