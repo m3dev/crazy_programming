@@ -60,6 +60,7 @@
 |[Formula type](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/formula_type)|`O:1+1=2;O`|
 |[Append magic](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/append_magic)|`(x:=[[]]*3)[0].append(1);x`|
 |[MMM](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/mmm)|`*M,M=[*"123"];"M"+M`|
+|[Tuple merge](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/tuple_merge)|`(((0)\|1)\|2)\|3`|
 
 </details>
 
