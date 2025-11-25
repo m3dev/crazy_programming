@@ -9,7 +9,7 @@
 
 |lang|title(link)|
 |---|---|
-|Kotlin||
+|Kotlin|[M3 Kotlin Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/kotlin)|
 |OCaml|[M3 OCaml Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/ocaml)|
 |Python|[M3 Python Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/python)|
 |Python|[出力が動くFukuoka採用Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/python)|
