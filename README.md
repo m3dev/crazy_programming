@@ -18,8 +18,9 @@
 |Scala|[M3 Scala Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/scala)|
 |Swift|[M3 Swift Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/swift)|
 |Swift|[M3 Swift Quine: iOSDC Japan 2025 edition](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/swift)|
+|OCaml|[M3 OCaml Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/ocaml)|
+|Dart|[M3 Dart Quine](https://github.com/m3-inc-personal/crazy_programming/tree/main/quine/dart)|
 |TypeScript||
-
 
 ## Programming Quiz
 
