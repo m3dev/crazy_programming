@@ -19,8 +19,8 @@ AAAAf/AAD/wAA    HAH8AAAB             /8AAf/AA        AAAfwAAAH/4AD/8AAAAB+AAAAf
 AAB7/gB5/AAAA    P8AAAAHn+           APH+AAAD/        8AAAA8P8B8f4AAB//8AAADwf8Ph/gA        AAA/4AAA
 PA/58H+AAAAA/    wAAA8B/vgf         4AAAAB/AAA        HgH/8A/wAAAAH8AA   AeAP/gD/AAA       AA/wAAB4A
 f8AP8AAOAD+AA    AHgA/gA/wAB       4AfwAAP/8B+        A//+AH//8AAA//w    DwD//4AH/+       AAAAAAAAAA
-AAAAAAAA              AAAAAAA      AAAAAAA                 AAAAAAAAAA                   AAAAA:We'are
-#Medical              Platform    Products                 Developer"""              .run{split(":")
+AAAAAAAA              AAAAAAA      AAAAAAA                 AAAAAAAAAA                   AAAAA:We_are
+_Medical              Platform    Products                 Developer"""              .run{split(":")
 .let{a.addAll(S.format(h(it[0]) .decodeToString().replace(g,b),c(this)).reversed().map{it+b});f(e(h(
 it[1]).joinToString(b){d(it).padStart(8,'0')})).chunked(100).forEach{println(it.joinToString(b))}}}}
 //===================== We are hiring !! : https://jobs.m3.com/engineer/ =========================//

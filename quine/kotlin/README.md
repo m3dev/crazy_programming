@@ -13,7 +13,7 @@ kotlinc quine.kt -include-runtime -d quine.jar
 java -jar quine.jar
 ```
 
-[Kotlin Playground](https://pl.kotl.in/yYhJOriXj)でもお楽しみいただけます。
+[Kotlin Playground](https://pl.kotl.in/SSDMVfiH2)でもお楽しみいただけます。
 
 ## 解説
 
