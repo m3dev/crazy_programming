@@ -13,7 +13,7 @@ kotlinc quine.kt -include-runtime -d quine.jar
 java -jar quine.jar
 ```
 
-[Kotlin Playground](https://pl.kotl.in/1k8Q0GWtj)でもお楽しみいただけます。
+[Kotlin Playground](https://pl.kotl.in/yYhJOriXj)でもお楽しみいただけます。
 
 ## 解説
 
@@ -23,6 +23,6 @@ java -jar quine.jar
 
 ### 前回との差分
 
-コード自体は大きく変えていませんが、新しいバージョンはAAがエムスリー社内で統一されたため、AAを変更しています。  
-それに伴い行数が2行減った=使える文字数が200文字減ったので、AA部分までコードを紛れ込ませるなど、細かい文字数調整を頑張りました。
+コード自体は大きく変えていませんが、AAがエムスリー社内で統一されたため、新しいバージョンではAAを変更しています。  
+それに伴い行数が2行減った=使える文字数が200文字減ったので、コードの短縮化とAA部分までコードを紛れ込ませるなどの細かい文字数調整を頑張りました。
 
