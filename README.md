@@ -65,6 +65,7 @@
 |[is](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/is)|`...is...is...is...is...is...`|
 |[dot](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/dot)|`f"{(':')[::]::^5}"`|
 |[map to map](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/map_to_map)|`list(map(list,list(map(map,map(lambda map:list,map:='map'),map))))`|
+|[Make parentheses](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/make_parentheses)|`();((((_,_))))`|
 
 </details>
 
