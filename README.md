@@ -62,6 +62,7 @@
 |[MMM](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/mmm)|`*M,M=[*"123"];"M"+M`|
 |[Tuple merge](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/tuple_merge)|`(((0)\|1)\|2)\|3`|
 |[I am m3](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/i_am_m3)|`'IAMM3'[(x:=-~(1==1))::x]`|
+|[is](https://github.com/m3-inc-personal/crazy_programming/tree/main/quiz/python/is)|`...is...is...is...is...is...`|
 
 </details>
 
