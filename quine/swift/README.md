@@ -32,7 +32,9 @@ swift quine_iosdc_japan_2025.swift
 
 ## 解説
 
-COMING SOON
+以下のブログで実装方法を解説しています。
+
+- [引数でアスキーアートが変化するSwift Quineの仕組みをフローチャートで解説](https://www.m3tech.blog/entry/swift-quine)
 
 
 [^m3t]: https://www.m3t.co.jp/
