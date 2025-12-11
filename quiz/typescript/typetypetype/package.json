@@ -1,0 +1,7 @@
+{
+  "name": "typetypetype",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
