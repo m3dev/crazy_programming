@@ -106,4 +106,3 @@
 ## 新卒採用、インターンも常時募集しています
 
 [https://fresh.m3recruit.com/engineer](https://fresh.m3recruit.com/engineer)
-# crazy_programming
