@@ -19,7 +19,7 @@
 |Swift|[M3 Swift Quine: iOSDC Japan 2025 edition](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
 |OCaml|[M3 OCaml Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/ocaml)|
 |Dart|[M3 Dart Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/dart)|
-|TypeScript||
+|TypeScript|[M3 TypeScript Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/typescript)|
 
 ## Programming Quiz
 
@@ -106,3 +106,11 @@
 ## 新卒採用、インターンも常時募集しています
 
 [https://fresh.m3recruit.com/engineer](https://fresh.m3recruit.com/engineer)
+
+## エンジニア公式Xも是非フォローしてください！
+
+[https://x.com/m3_engineering](https://x.com/m3_engineering)
+
+## エンジニア公式YouTubeのチャンネル登録もお願いします！
+
+[https://www.youtube.com/@m3techchannel160](https://www.youtube.com/@m3techchannel160)
