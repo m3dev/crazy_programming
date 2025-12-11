@@ -107,10 +107,3 @@
 
 [https://fresh.m3recruit.com/engineer](https://fresh.m3recruit.com/engineer)
 
-## エンジニア公式Xも是非フォローしてください！
-
-[https://x.com/m3_engineering](https://x.com/m3_engineering)
-
-## エンジニア公式YouTubeのチャンネル登録もお願いします！
-
-[https://www.youtube.com/@m3techchannel160](https://www.youtube.com/@m3techchannel160)
