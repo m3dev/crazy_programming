@@ -1,0 +1,19 @@
+{
+  "name": "ts-quine",
+  "type": "module",
+  "scripts": {
+    "quine": "node ./src/quine.ts",
+    "dev": "node --watch-path=./src/quine.ts --watch ./src/index.ts",
+    "aa": "node ./src/aa.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.9.2"
+  },
+  "engines": {
+    "node": ">=23.6.0"
+  },
+  "volta": {
+    "node": "23.6.0"
+  }
+}
