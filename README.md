@@ -30,6 +30,8 @@
 |title(link)|code|
 |---|---|
 |[技育プロジェクト](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/geek)|`[_='GEEK'.small()[2]]+[-~_._\|2];`|
+|[TypeTypeType](https://github.com/m3dev/crazy_programming/tree/main/quiz/typescript/typetypetype)|`let type = "type";...`|
+|[Colab](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/colab)|`((_,$=[].push(_,_))=>...`|
 
 </details>
 
