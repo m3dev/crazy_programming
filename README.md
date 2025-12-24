@@ -9,6 +9,8 @@
 
 |lang|title(link)|
 |---|---|
+|Dart|[M3 Dart Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/dart)|
+|Go|[M3 Go Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/go)|
 |Kotlin|[M3 Kotlin Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/kotlin)|
 |OCaml|[M3 OCaml Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/ocaml)|
 |Python|[M3 Python Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/python)|
@@ -17,8 +19,6 @@
 |Scala|[M3 Scala Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/scala)|
 |Swift|[M3 Swift Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
 |Swift|[M3 Swift Quine: iOSDC Japan 2025 edition](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
-|OCaml|[M3 OCaml Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/ocaml)|
-|Dart|[M3 Dart Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/dart)|
 |TypeScript|[M3 TypeScript Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/typescript)|
 
 ## Programming Quiz
