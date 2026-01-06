@@ -2,20 +2,33 @@
 
 Rubyで作成したQuine
 
+- M3 Ruby Quine
+  - Author: [@ma2gedev](https://github.com/ma2gedev)
 - M3 Logo Ruby Quine
   - Author: [@ma2gedev](https://github.com/ma2gedev)
 
-## 実行
+## M3 Ruby Quine / quine.rb
 
-### m3_logo_quine.rb
+### 実行
+
+```sh
+ruby quine.rb
+```
+
+### 解説
+
+アニメーション時にコード部分が削られていますが、誤り訂正を行っているのでどのフレームで切り取っても Quine として実行することが可能です。
+-a オプションでコード部分を全て出力することもできます。
+
+## M3 Logo Ruby Quine / m3_logo_quine.rb
+
+### 実行
 
 ```sh
 ruby m3_logo_quine.rb
 ```
 
-## 解説
-
-### m3_logo_quine.rb
+### 解説
 
 画像のビットマップデータを Base64 エンコードしたものをコードに埋め込み、それを元にビットマップを復元して自身のコードをビットを元に当てはめて出力しています。
 ロゴ画像中の文字を描画する箇所が少なく、zlib や 36 進数にするなどの圧縮ではコードに収まりきらないため、
