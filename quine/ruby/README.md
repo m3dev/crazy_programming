@@ -18,6 +18,8 @@ ruby quine.rb
 ### 解説
 
 アニメーション時にコード部分が削られていますが、誤り訂正を行っているのでどのフレームで切り取っても Quine として実行することが可能です。
+誤り訂正は tompng さんの [TRICK 2022 受賞作品](https://github.com/tric/trick2022/tree/bb9bc225ed0c1a4122b2ea8131f091162175d1ba/01-tompng)で使われている手法をベースにしています。誤り訂正をするコードが非常に短いコードで実現されていて驚きです。
+
 -a オプションでコード部分を全て出力することもできます。
 
 ## M3 Logo Ruby Quine / m3_logo_quine.rb
