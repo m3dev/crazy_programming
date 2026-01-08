@@ -1,26 +1,26 @@
-eval((s=%w'm=1;Integer.class_eval{define_method(:quo){|a|self*a.pow(87,89)%89};define_method(:abs){s
-elf%89}};require"matrix";39.times{|i,*v|v=[];z=*?"..??,*?A..?[,*?]..?_,*?a..?};a=(0..54).map{z.index
-(d[i+39*_1])};w=*Matrix[*(0..21).map{|i,*b|v<<a.zip(0..).sum{|j,k|-(p=(1+k).pow(i,89))*(j||(b<<p;0))
-};b}].lup.solve(v);55.times{d[i+39*_1]=z[a[_1]||w.shift]}};eval(d)'*'';d=%q~W=10    26;r=(32..122).m
-ap(&:chr).             s.rotate(-5).join;c="%            l%&&%?%myyux?44otg            nsjjw4%".tr(r
-,t);b="eNrtW           /8s9S58jSw/pMImWJfmwZ          LpwQ3mWsPsSFe7Qgy9N                64wCEtg5cD/
-g2toQuHS+cwMXc1         KEB+j8wTOhHl8wHAgfU         P4Qa7NNhcTArB1emBnt     IiQWkH        C/XZhrcaYA
-P80S1dGGMHCTnKZ           k6MDpHktBptanLVu          NqY9nTBnrD6Fb9erGlJ   N4O+pEW+o       t+t40nqWbf
-Xp0pLBwexks3meL           kX6V+kylev+OLzQ           aol9I7uYHgaOb33d34uMZTmXbUYCpUF       uR1lyY77DX
-oxv4+HVrx6vwsfX            zcsP+4eg1DjEf            7zMH4kxp5pUD/LpRSu/NO4GIU/+AF14      npack(?m)[0
-];require"zlib"             ate.inflate(            clude?("-a");p=ARGV.include?("      oop{(s[2]=(m
-=m%4+1).to_s)if    l         :m%4-1;e="    ((       39<<s<<39<<?*<<39<<39<<";d        6<<d*2;o="";j=
-0;0.upto(H*W-1)    o<        l*H*W+i]=    )?e        1]:(j+=1;""<<32))<<((i%            ")};o[-W+22,
-c.size]=c;o[-2    ]=""        .delete     hr)        ap(:INT){puts;exit};                 <<"[H"<<27
-.chr<<"[J"<<o)    ak()i         =(m=     ).to        (1)}#]To4_137K.7ur=*u'mqt'vhy         iKB1yp0UI
-t6}66%7$"lk5ZO    +-d?()         2<     MnI8U        wx%Pb$#-lF;z{?V<4YmbtL=D2z[ezCC        r&0Qq_N>
-#ZVaWVoHSpe57n    %f5-H;d        t     HkBmyK        :TVPM[n8[(Raz&E;dr7umUZ1<$8bz8Vl       8"x7[.[i
-=kX6EunFh>)p{    c9'k/].u             SM)=v8K'        X8>h1vWlG3._MirLgHF^,p,_ENur]k?       I2"z&g0z
-d>h%(gozq*VOZ    Cm_R0B&70           '9&or&XuP        ^&62xmPs2(,Xdr_N,1;%sVcdi*k6__        fF#RFW#&
-N*91K]#p3):<O    {_mEwe-N;p         _iSfyA);a8        lY[IN4?ng0Z9V[{;   Vu{2%#pKoz)       x'pT}vY&6
-.egyXgME69VyN    7'rJH<0}"wq       ]WH'x|*=1((        g(?R/gX#j2#f|]}    b{sC_J)Q.A       B2QFz2t}oQ
-Ua'r;GS;              G|[28T{      )ht(Rr1                 O7[]R4N+=r                   h*^o#?+lKO="
-VKW.[8S3              ulvx^AUC    adg2YRnk                 =*G3Je#G-<]-              Bda}'6iv-fKJlEa
-c8^4(Fk28?J#=Oh-$cHSDz4?P}6Kpey'w4zd1}(8iT"_ifnH6#xqV;eNgIwP77#t<f.Tn|aBEf?wkVq+k)vnhnTZDh.Mqe/h6:OE
-L{=lL2Yz.=+fmj09n64__________________________We_love_Ruby________________________uqX.zE?bAvr-a(W7zCt
+eval((s=%w'm=1;Integer.class_eval{define_method(:quo){|n|self*n.pow(87,89)%89};define_method(:abs){s
+elf%89}};require"matrix";u=*?"..?};u-=[?@,92.chr,?`];39.times{|i|t=(0..54).map{u.index(d[i+39*_1])};
+a=[];b=[];22.times{|i|b<<0;a<<[];t.zip(1..).each{|w,j|c=j.pow(i,89);(w)?b[-1]+=-w*c:a[-1]<<c}};r=*Ma
+trix[*a].lup.solve(b);55.times{d[i+39*_1]=u[t[_1]||r.shift]}};eval(d)'*'';d=%q~W    ;H=26;r=(32..122
+).map(&:ch             hars.rotate(-5).join;c            wnsl%&&%?%myyux?44            jslnsjjw4%".t
+r(r,t);z="eN           FJz/8s9S58jSw/pMImWJf          KGXLpwQ3mWsPsSFe7Qg                Lix64wCEtg5
+cD/g2toQuHS+cwM         dGCKEB+j8wTOhHl8wHA         In1P4Qa7NNhcTArB1em     pCWIiQ        QVIC/XZhrc
+aYAP80S1dGGMHCT           AACk6MDpHktBptan          JDaNqY9nTBnrD6Fb9er   YUnN4O+pE       IH2t+t40nq
+WbfXp0pLBwexks3           o0hkX6V+kylev+O           /gpaol9I7uYHgaOb33d34uMZTmXbUYC       kXLuR1lyY7
+7DXoxv4+HVrx6vw            3cOzcsP+4eg1D            LbK7zMH4kxp5pUD/LpRSu/NO4GIU/+A      ".unpack(?m
+)[0];require"zl             nflate.infla            .include?("-a");p=ARGV.include      );loop{(s[2]
+=(m=m%4+1).to_s    p         0?1:m%4-1;    va       "<<39<<s<<39<<?*<<39<<39<<        <126<<d*2;o=""
+;j=0;0.upto(H*W    |i        |n[l*H*W+    "1"        j+=1]:(j+=1;""<<32))<<(            0:"")};o[-W+
+22,c.size]=c;o    ,20]        <<".del     0.c        ;trap(:INT){puts;exi                 chr<<"[H"<
+<27.chr<<"[J"<    break         [2]=     4+1)        eep(1)}#]X2|<B8_w69JJ-x|gDfDI         Of6fpyLA^
+t%4X5XMF%$RLkE    zf=}ke         P<     HN7>T        zqHFQ5Fez.KUuH-R'IFuX-^*yL>CFb(        za+xw:3]
+y0vLSHH}qkj65X    _#g4qKR        x     ane)^F        jOTNM{Bg[;);S}B8,*ioni=jSiKDID}j       ZatE#Xdq
+Djob9_49U3VVi    GU,O927K             y#tSWYdp        N[[Soapmj^4[7apop0f*_=k7.wa.iBw       W)$-MM-d
+/>]Lc?MvpwTXh    ?h49A(3b6           4XP]H67)t        jwiyX^Ih?0I#s3'woKou"WKe*l.QlZ        c*YlGW7R
+YMuS*?BCJw|36    Mg&z{[B3#.         $)ube];4w0        gx$,k2RA<c?<Z+k'   #}OYk&GT15Y       <4Qo8IEm/
+?220)%5Wz^9:6    Qf.[*Va'>cN       iam'Z'X+89?        E9>s7DIbn&M{uC7    '3JIo2'%_n       N-N]-#;nyr
+vP|xONm2              Uz&zSPR      #8$'iwD                 l]fPCNS*GJ                   EEmVAiewQkTE
+6O4Y|=2J              FC667[f"    AYJE=_T%                 Pf'6X&3;h[%}              nnv}u02{EvJy_Ef
+{8k$%+<XPq&tPK*$%o4$3cF8gzb[d#xr1=]/BmfMwo5<,=^"l'cWTYC?td5=16ISV;hVE0"%&_qR=W4B-y';XOM<a:7Y<I)azIxB
+t%^1^E}eXz_4IUcfd'2__________________________We_love_Ruby________________________2O;tw|Pe+l#H;|ssKnq
 ))s;)rhc.01(eteled.____ We are hiring !! : https://jobs.m3.com/engineer/ _______~.delete(10.chr);s))

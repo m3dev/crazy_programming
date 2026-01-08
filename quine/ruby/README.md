@@ -15,6 +15,12 @@ Rubyで作成したQuine
 ruby quine.rb
 ```
 
+次のバージョンで動作確認しています。
+
+- ruby 3.3.10 (2025-10-23 revision 343ea05002) [arm64-darwin24]
+- ruby 3.4.8 (2025-12-17 revision 995b59f666) +PRISM [arm64-darwin24]
+- ruby 4.0.0 (2025-12-25 revision 553f1675f3) +PRISM [arm64-darwin24]
+
 ### 解説
 
 アニメーション時にコード部分が削られていますが、誤り訂正を行っているのでどのフレームで切り取っても Quine として実行することが可能です。
