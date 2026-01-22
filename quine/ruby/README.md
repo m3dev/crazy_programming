@@ -2,20 +2,41 @@
 
 Rubyで作成したQuine
 
+- M3 Ruby Quine
+  - Author: [@ma2gedev](https://github.com/ma2gedev)
 - M3 Logo Ruby Quine
   - Author: [@ma2gedev](https://github.com/ma2gedev)
 
-## 実行
+## M3 Ruby Quine / quine.rb
 
-### m3_logo_quine.rb
+### 実行
+
+```sh
+ruby quine.rb
+```
+
+次のバージョンで動作確認しています。
+
+- ruby 3.3.10 (2025-10-23 revision 343ea05002) [arm64-darwin24]
+- ruby 3.4.8 (2025-12-17 revision 995b59f666) +PRISM [arm64-darwin24]
+- ruby 4.0.0 (2025-12-25 revision 553f1675f3) +PRISM [arm64-darwin24]
+
+### 解説
+
+アニメーション時にコード部分が削られていますが、誤り訂正を行っているのでどのフレームで切り取っても Quine として実行することが可能です。
+誤り訂正は tompng さんの [TRICK 2022 受賞作品](https://github.com/tric/trick2022/tree/bb9bc225ed0c1a4122b2ea8131f091162175d1ba/01-tompng)で使われている手法をベースにしています。誤り訂正をするコードが非常に短いコードで実現されていて驚きです。
+
+-a オプションでコード部分を全て出力することもできます。
+
+## M3 Logo Ruby Quine / m3_logo_quine.rb
+
+### 実行
 
 ```sh
 ruby m3_logo_quine.rb
 ```
 
-## 解説
-
-### m3_logo_quine.rb
+### 解説
 
 画像のビットマップデータを Base64 エンコードしたものをコードに埋め込み、それを元にビットマップを復元して自身のコードをビットを元に当てはめて出力しています。
 ロゴ画像中の文字を描画する箇所が少なく、zlib や 36 進数にするなどの圧縮ではコードに収まりきらないため、
