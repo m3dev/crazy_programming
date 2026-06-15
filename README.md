@@ -7,6 +7,10 @@
 
 ## Quine
 
+<details>
+
+<summary>Quine Table</summary>
+
 |lang|title(link)|
 |---|---|
 |Dart|[M3 Dart Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/dart)|
@@ -22,6 +26,8 @@
 |Swift|[M3 Swift Quine: iOSDC Japan 2025 edition](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
 |TypeScript|[M3 TypeScript Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/typescript)|
 |Terraform|[M3 Terraform Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/terraform)|
+
+</details>
 
 ## Programming Quiz
 
