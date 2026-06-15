@@ -100,6 +100,15 @@
 |[Reduce 5000 Lambda](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/reduce_5000_lambda)|`from functools import reduce;from unicodedata import numeric;reduce(lambda numeric=(reduce:=map), map=(reduce:=numeric):numeric*map, map(numeric,'5000兆'))`|
 |[Triple Quote](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/triple_quote)|`"""'"\/\'''"'"""`|
 |[Nested F-string](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/nested_fstring)|`f"""{f"{'a'+'b'=}"+f"{'c'+'d'=}"=}"""`|
+|[Empty Tuple Key](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/empty_tuple_key)|`{():()}[()]`|
+|[None Equals](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/none_equals)|`f"{None=}={None=}"`|
+|[Len Ellipsis](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/len_ellipsis)|`f"{len(f'{...=}')=}"`|
+|[Dict Key Type Collision](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/dict_key_type_collision)|`{'1':'str', True:'bool', 1:'int', 1.0:'float'}`|
+|[Nested Tuple Key](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/nested_tuple_key)|`{((())):(())}[(((())))]`|
+|[Enum Hash Collision](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/enum_hash_collision)|`from enum import Enum;class Ex(Enum):int_num=1;bool_num=True;float_num=1.0` ...|
+|[Numpy Ones Scalar](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/numpy_ones_scalar)|`import numpy as np;np.ones(())`|
+|[Numpy PyCon](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/numpy_pycon)|`import numpy as np;np.__name__[-2:]+np.conj.__name__[:3]`|
+|[Numpy Newaxis](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/numpy_newaxis)|`import numpy as np;x=np.ones((2,2));x[(None,...,None)]`|
 
 </details>
 
