@@ -21,6 +21,7 @@
 |Swift|[M3 Swift Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
 |Swift|[M3 Swift Quine: iOSDC Japan 2025 edition](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
 |TypeScript|[M3 TypeScript Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/typescript)|
+|Terraform|[M3 Terraform Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/terraform)|
 
 ## Programming Quiz
 
