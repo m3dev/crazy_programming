@@ -40,6 +40,18 @@
 |[技育プロジェクト](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/geek)|`[_='GEEK'.small()[2]]+[-~_._\|2];`|
 |[TypeTypeType](https://github.com/m3dev/crazy_programming/tree/main/quiz/typescript/typetypetype)|`let type = "type";...`|
 |[Colab](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/colab)|`((_,$=[].push(_,_))=>...`|
+|[undefined label](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/undefined_label)|`console.log(eval("{undefined:[1]}['undefined'][0]"))`|
+|[from char code](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/from_char_code)|`String.fromCharCode.toString()[12] + 3`|
+|[math max](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/math_max)|`10000000000+(0[1]+Math.max)[3]+-1+-0-0`|
+|[hex zero](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/hex_zero)|`0x0_0-0x0_0`|
+|[regex filter](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/regex_filter)|`(r => ["3M", "M3"].filter(s => r.test(s)))(/[0-9]+/g)`|
+|[parse int tag](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/parse_int_tag)|`` parseInt`256${~-16}`.toString`24` ``|
+|[parse int radix](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/parse_int_radix)|`parseInt("256", ~-16).toString(0+11..toString(16)+11000)`|
+|[octal add](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/octal_add)|`0011 + 0009`|
+|[radix literals](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/radix_literals)|`010 + 0b10 + 0o10 + 0x10`|
+|[dollar tag](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/dollar_tag)|`````$=()=>$;`${$````}`[4]`````|
+|[dollar tag yoshi](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/dollar_tag_yoshi)|`````$$$$=()=>$$$$;`$$$${$$$$````}`[`𠮷𠮷`.length]`````|
+|[map block](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/map_block)|`[1, 2, 3].map(n => {num: n}).join()[1]`|
 
 </details>
 
@@ -76,6 +88,18 @@
 |[dot](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/dot)|`f"{(':')[::]::^5}"`|
 |[map to map](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/map_to_map)|`list(map(list,list(map(map,map(lambda map:list,map:='map'),map))))`|
 |[Make parentheses](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/make_parentheses)|`();((((_,_))))`|
+|[Percent Equals](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/percent_equals)|`f"{'%s'%'='=}"`|
+|[Walrus Default](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/walrus_default)|`(lambda _=(_:=()):_)(_:=())`|
+|[Walrus Keyword](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/walrus_keyword)|`((lambda _=(_:=()):_)(_=(_:=())))`|
+|[技術書典](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/gijutsushoten)|`f"{chr(len(dir(dir:='技術書典'))-len(dir))}{~(-len(dir))}"`|
+|[Pandas Loc](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/pandas_loc)|`import pandas as pd;pd.DataFrame({(_:=f"{':'::^3}"):[(':')[::]]}).loc[::,':':_]`|
+|[Dict Minus Zero](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/dict_minus_zero)|`{-.0_0:00_0,00:.0,.0:-0}`|
+|[Reduce 5000](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/reduce_5000)|`from functools import reduce;from unicodedata import numeric;reduce(lambda map,numeric:numeric*map,map(numeric,'5000兆'))`|
+|[Empty Dict Key](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/empty_dict_key)|`[{(()):([])}[()]]`|
+|[Year Slice](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/year_slice)|`"2025"[2:5]*2`|
+|[Reduce 5000 Lambda](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/reduce_5000_lambda)|`from functools import reduce;from unicodedata import numeric;reduce(lambda numeric=(reduce:=map), map=(reduce:=numeric):numeric*map, map(numeric,'5000兆'))`|
+|[Triple Quote](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/triple_quote)|`"""'"\/\'''"'"""`|
+|[Nested F-string](https://github.com/m3dev/crazy_programming/tree/main/quiz/python/nested_fstring)|`f"""{f"{'a'+'b'=}"+f"{'c'+'d'=}"=}"""`|
 
 </details>
 
@@ -99,6 +123,26 @@
 |[RubyWorldConference2022 day2-1](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`+-+-+-1===-+-+-+1`|
 |[RubyWorldConference2022 day2-2](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`().\|(0).!()`|
 |[RubyWorldConference2022 day2-3](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/ruby_world_conference_2022)|`(?a..?A).to_a[-2]`|
+|[nilキー](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/nil_key)|`{nil:1}[nil]`|
+|[pとブロック](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/p_block)|`p {nil: 1}`|
+|[tapの戻り値](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/tap_index)|`{}.tap{\|h\|h[1]=1}[1]`|
+|[縦棒の群れ](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/bang_question_or)|`!?\|\|\|?\|`|
+|[波括弧とクエスチョン](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/question_hash)|`{?}=>?{}[{}]`|
+|[宇宙船とハッシュ](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/spaceship_hash)|`{?<=>{}}<=>{?<=>{}}`|
+|[pの論理和](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/p_or)|`p\|p\|p`|
+|[代入と論理和](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/assign_or)|`a=a\|a=a`|
+|[空ハッシュとブロック](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/empty_hash_block)|`{}[{}]{}`|
+|[二重否定とクエスチョン](https://github.com/m3dev/crazy_programming/tree/main/quiz/ruby/bang_bang_question)|`!!?[??]`|
+
+</details>
+
+<details>
+
+<summary>Kotlin Quiz Table</summary>
+
+|title(link)|code|
+|---|---|
+|[data object](https://github.com/m3dev/crazy_programming/tree/main/quiz/kotlin/data_object)|`` data object `・^・`;{`・^・`:`・^・`->(`・^・`)}(`・^・`) ``|
 
 </details>
 
