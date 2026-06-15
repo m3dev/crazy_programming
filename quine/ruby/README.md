@@ -28,6 +28,8 @@ ruby quine.rb
 
 -a オプションでコード部分を全て出力することもできます。
 
+仕組みの詳しい解説は M3 Tech Blog の記事を参照してください: [コードが欠けても動くアニメーション Quine を Ruby で作ってみる](https://www.m3tech.blog/entry/ruby-m3-quine)
+
 ## M3 Logo Ruby Quine / m3_logo_quine.rb
 
 ### 実行
