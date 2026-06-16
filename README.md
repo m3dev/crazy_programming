@@ -40,6 +40,7 @@
 |[技育プロジェクト](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/geek)|`[_='GEEK'.small()[2]]+[-~_._\|2];`|
 |[TypeTypeType](https://github.com/m3dev/crazy_programming/tree/main/quiz/typescript/typetypetype)|`let type = "type";...`|
 |[Colab](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/colab)|`((_,$=[].push(_,_))=>...`|
+|[Colab Encode](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/colab_encode)|`((s,[a,b,c,d,e]=new TextEncoder().encode(s))=>...`|
 |[undefined label](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/undefined_label)|`console.log(eval("{undefined:[1]}['undefined'][0]"))`|
 |[from char code](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/from_char_code)|`String.fromCharCode.toString()[12] + 3`|
 |[math max](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/math_max)|`10000000000+(0[1]+Math.max)[3]+-1+-0-0`|
@@ -52,6 +53,8 @@
 |[dollar tag](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/dollar_tag)|`````$=()=>$;`${$````}`[4]`````|
 |[dollar tag yoshi](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/dollar_tag_yoshi)|`````$$$$=()=>$$$$;`$$$${$$$$````}`[`𠮷𠮷`.length]`````|
 |[map block](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/map_block)|`[1, 2, 3].map(n => {num: n}).join()[1]`|
+|[sparse array key](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/sparse_array_key)|`x = {[[,,]]:[[,,]]}`|
+|[group by](https://github.com/m3dev/crazy_programming/tree/main/quiz/javascript/group_by)|`Object.entries(Object.groupBy(["Medicine","Media","Metamorphosis"],([m]) => m))[0].map(...)`|
 
 </details>
 
@@ -152,6 +155,16 @@
 |title(link)|code|
 |---|---|
 |[data object](https://github.com/m3dev/crazy_programming/tree/main/quiz/kotlin/data_object)|`` data object `・^・`;{`・^・`:`・^・`->(`・^・`)}(`・^・`) ``|
+
+</details>
+
+<details>
+
+<summary>OCaml Quiz Table</summary>
+
+|title(link)|code|
+|---|---|
+|[Matsuri](https://github.com/m3dev/crazy_programming/tree/main/quiz/ocaml/matsuri)|`"Matsuri"\|>fun s->Printf.sprintf"%c%d"s.[0]((String.fold_left(fun n _->n+1)0 s)/2);;`|
 
 </details>
 
