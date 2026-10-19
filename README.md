@@ -21,6 +21,7 @@
 |Python|[出力が動くFukuoka採用Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/python)|
 |Ruby|[M3 Ruby Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/ruby)|
 |Ruby|[M3 Logo Ruby Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/ruby)|
+|Rust|[M3 Rust Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/rust)|
 |Scala|[M3 Scala Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/scala)|
 |Swift|[M3 Swift Quine](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
 |Swift|[M3 Swift Quine: iOSDC Japan 2025 edition](https://github.com/m3dev/crazy_programming/tree/main/quine/swift)|
